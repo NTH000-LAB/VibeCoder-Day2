@@ -1,0 +1,1 @@
+alert("merci d'avoir visité mon site web");
