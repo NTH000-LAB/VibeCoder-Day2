@@ -16,6 +16,7 @@ C’est juste un site rapide pour me présenter simplement.
 
 Vous trouverez aussi un site web complet créé avec l’IA Lovable.  
 Il sert à présenter le Vibe Coding d’une manière simple et compréhensible.
+fichier zip: easyvibecoding-main.zip
 
 ---
 
@@ -44,7 +45,7 @@ It’s basically a quick site that introduces who I am in a simple way.
 
 There’s also a complete website created using Lovable AI.  
 It’s made to explain Vibe Coding in a clean and easy way.
-
+zip files: easyvibecoding-main.zip
 ---
 
 ## License
